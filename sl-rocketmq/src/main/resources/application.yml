@@ -1,0 +1,18 @@
+#端口号
+server:
+  port: 11216
+spring:
+  application:
+    name: sl-mq
+
+com:
+  sl:
+    msgbus:
+      rocketmq:
+        namesrv-addr: 127.0.0.1:9876
+        producer-group-name: sl-producer
+        producer-instance-name: sl-producer-test
+        consumer-group-name: sl-consumer
+        consumer-instance-name: sl-consumer-test
+        subscribe:
+          - sl:order||rpc

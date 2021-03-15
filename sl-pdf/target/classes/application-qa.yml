@@ -1,0 +1,18 @@
+#日志
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    com:
+      sl:
+        dao: debug
+    root: info
+#端口号
+server:
+  port: 1216
+  servlet:
+    context-path: "/slPdf"
+
+
+
+
+

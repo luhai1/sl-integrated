@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: sl-excel
+  #nacos
+  cloud:
+    nacos:
+      config:
+        server-addr: 127.0.0.1:8848 #配置中心地址
+        prefix: slcode
+        file-extension: yaml
+        namespace: 6f82a161-eafa-4a77-ba7d-dcd69a1152f1
+        password: nacos
+        username: nacos
+        refresh-enabled: true
+      discovery:
+        ip: 127.0.0.1
+        server-addr: 127.0.0.1:8848 #注册中心地址
+        namespace: 6f82a161-eafa-4a77-ba7d-dcd69a1152f1
+        password: nacos
+        username: nacos

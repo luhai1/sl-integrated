@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/integrated.iml" filepath="$PROJECT_DIR$/integrated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-auth/sl-auth.iml" filepath="$PROJECT_DIR$/sl-auth/sl-auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-common/sl-common.iml" filepath="$PROJECT_DIR$/sl-common/sl-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-datasource/sl-datasource.iml" filepath="$PROJECT_DIR$/sl-datasource/sl-datasource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-excel/sl-excel.iml" filepath="$PROJECT_DIR$/sl-excel/sl-excel.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-gateway/sl-gateway-nacos.iml" filepath="$PROJECT_DIR$/sl-gateway/sl-gateway-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-rocketmq/sl-rocketmq.iml" filepath="$PROJECT_DIR$/sl-rocketmq/sl-rocketmq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-test/sl-test.iml" filepath="$PROJECT_DIR$/sl-test/sl-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-upms/sl-upms.iml" filepath="$PROJECT_DIR$/sl-upms/sl-upms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-elasticsearch/slelasticsearch.iml" filepath="$PROJECT_DIR$/sl-elasticsearch/slelasticsearch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-pdf/slpdf.iml" filepath="$PROJECT_DIR$/sl-pdf/slpdf.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3f404e32-c90f-40c3-8a78-22de740f2ee5" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\soft\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="D:\soft\apache-maven-3.6.3\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lzRaZKVSiX4FFR25NCbGTY0bhZ" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sl-rocketmq/src/main/resources" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sl.umps.config" />
+      <recent name="com.sl.umps.dao" />
+      <recent name="com.sl.service.impl" />
+      <recent name="com.sl.common.vo" />
+      <recent name="com.sl.config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\mine\sl-integrated\sl-rocketmq\src\main\resources" />
+      <recent name="D:\mine\sl-integrated\sl-excel\src\main\resources" />
+      <recent name="D:\mine\sl-integrated\sl-excel\src\main\java\com\sl\excel" />
+      <recent name="D:\mine\sl-integrated\sl-upms\src\main\resources\mapper" />
+      <recent name="D:\mine\sl-integrated\sl-upms\src\main\java\com\sl\umps\service" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ExcelApplation">
+    <configuration name="LogEventBroadcaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.udp.LogEventBroadcaster" />
+      <module name="sl-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LogEventMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.udp.LogEventMonitor" />
+      <module name="sl-test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="netty.udp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sl.mq.test.TestMain" />
+      <module name="sl-rocketmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sl.mq.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExcelApplation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sl-excel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sl.excel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sl.excel.ExcelApplation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MqApplation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="sl-rocketmq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sl.mq.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sl.mq.MqApplation" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LogEventMonitor" />
+      <item itemvalue="Application.LogEventBroadcaster" />
+      <item itemvalue="Application.TestMain" />
+      <item itemvalue="Spring Boot.MqApplation" />
+      <item itemvalue="Spring Boot.ExcelApplation" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ExcelApplation" />
+        <item itemvalue="Application.TestMain" />
+        <item itemvalue="Spring Boot.MqApplation" />
+        <item itemvalue="Application.LogEventBroadcaster" />
+        <item itemvalue="Application.LogEventMonitor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3f404e32-c90f-40c3-8a78-22de740f2ee5" name="Default Changelist" comment="" />
+      <created>1608597996191</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608597996191</updated>
+      <workItem from="1608597998470" duration="3311000" />
+      <workItem from="1608683317116" duration="19259000" />
+      <workItem from="1609115305566" duration="6491000" />
+      <workItem from="1609309567584" duration="6902000" />
+      <workItem from="1609373938574" duration="3352000" />
+      <workItem from="1609720470986" duration="598000" />
+      <workItem from="1610325729920" duration="2623000" />
+      <workItem from="1610410852309" duration="1196000" />
+      <workItem from="1611036167458" duration="12656000" />
+      <workItem from="1611102826048" duration="13660000" />
+      <workItem from="1611189352620" duration="1797000" />
+      <workItem from="1611275718274" duration="9723000" />
+      <workItem from="1611534848831" duration="6173000" />
+      <workItem from="1611620788838" duration="10428000" />
+      <workItem from="1611707572884" duration="1274000" />
+      <workItem from="1611793976850" duration="627000" />
+      <workItem from="1611879905163" duration="1170000" />
+      <workItem from="1612139346022" duration="1196000" />
+      <workItem from="1612226129139" duration="1272000" />
+      <workItem from="1612312550778" duration="5846000" />
+      <workItem from="1612398899025" duration="2025000" />
+      <workItem from="1612485212987" duration="591000" />
+      <workItem from="1612658039065" duration="1097000" />
+      <workItem from="1613607959437" duration="1964000" />
+      <workItem from="1613694771310" duration="598000" />
+      <workItem from="1613780864495" duration="923000" />
+      <workItem from="1613953666586" duration="569000" />
+      <workItem from="1613962785495" duration="9324000" />
+      <workItem from="1614127143375" duration="1288000" />
+      <workItem from="1614213680730" duration="627000" />
+      <workItem from="1614223123763" duration="1211000" />
+      <workItem from="1614558465740" duration="1199000" />
+      <workItem from="1614645032370" duration="853000" />
+      <workItem from="1615343458930" duration="1756000" />
+      <workItem from="1615422591869" duration="264000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="SpringBootApplicationConfigurationType">
+        <watch expression="authorities" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

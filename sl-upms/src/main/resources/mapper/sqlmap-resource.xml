@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.sl.umps.dao.ResourceDao" >
+    <resultMap id="resourceMap" type="com.sl.common.vo.SysResources">
+        <id column="id" property="id"/>
+        <result column="resource_code" property="resourceCode"/>
+        <result column="display" property="display"/>
+        <result column="description" property="description"/>
+        <result column="parent_code" property="parentCode"/>
+        <result column="resource_type" property="resourceType"/>
+        <result column="url" property="url"/>
+    </resultMap>
+
+    <select id="getRolePermission" parameterType="java.lang.String" resultMap="resourceMap">
+        select
+          r.id,
+          r.resource_code,
+          r.display,
+          r.description,
+          r.parent_code,
+          r.resource_type,
+          r.url
+           from sl_role_resource srr
+           left join sl_sys_resources r on srr.resource_code=r.resource_code and r.status=1
+           where   srr.status = 1
+           and srr.role_code = #{roleCode}
+    </select>
+
+
+</mapper>

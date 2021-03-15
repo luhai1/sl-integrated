@@ -1,0 +1,37 @@
+#多数据源
+com:
+  sl:
+    es:
+      hosts:
+        -
+          cluster_name: elasticsearch
+          ip: 127.0.0.1
+          port: 9200
+          scheme: http
+
+      connect_time_out: 1000
+      connect_request_time_out: 5000
+      max_connect_num: 100
+      max_connect_per_route: 100
+      socket-time-out: 30000
+
+
+
+#日志
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    com:
+      sl:
+        dao: debug
+    root: info
+#端口号
+server:
+  port: 1215
+  servlet:
+    context-path: "/slEs"
+
+
+
+
+

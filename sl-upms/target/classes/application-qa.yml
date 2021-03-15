@@ -1,0 +1,66 @@
+#多数据源
+com:
+  sl:
+    datasource:
+      multi:
+        -
+          ds-name: sl-core
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          primary: true
+          url: jdbc:mysql://127.0.0.1:3306/sl_core?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+          username: sldb
+          password: Sl123qwe!
+        -
+          ds-name: sl-test
+          primary: false
+          driver-class-name: com.mysql.cj.jdbc.Driver
+          url: jdbc:mysql://127.0.0.1:3306/sl_core?serverTimezone=GMT%2B8&useUnicode=true&characterEncoding=UTF-8&allowMultiQueries=true
+          username: sldb
+          password: Sl123qwe!
+
+    es:
+      hosts:
+        -
+          cluster_name: elasticsearch
+          ip: 127.0.0.1
+          port: 9200
+          scheme: http
+
+      connect_time_out: 1000
+      connect_request_time_out: 5000
+      max_connect_num: 100
+      max_connect_per_route: 100
+      socket-time-out: 30000
+
+
+
+#日志
+logging:
+  config: classpath:logback-spring.xml
+  level:
+    com:
+      sl:
+        dao: debug
+    root: info
+#端口号
+server:
+  port: 1106
+#shiro
+shiro:
+  redis:
+    expire: 1800
+    timeout: 0
+#国际化
+spring:
+  messages:
+    basename: i18n/message
+  #redis
+  redis:
+    database: 6
+    host: 127.0.0.1
+    password:
+    port: 6379
+
+
+
+
