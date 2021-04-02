@@ -8,7 +8,9 @@
     <file url="file://$PROJECT_DIR$/sl-elasticsearch" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-excel" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-io" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-pdf" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sl-redis-lock" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-rocketmq" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-test" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sl-upms" charset="UTF-8" />

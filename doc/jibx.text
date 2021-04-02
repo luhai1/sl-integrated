@@ -1,0 +1,5 @@
+下载jibx压缩文件
+更具bean生成xml文件
+java -cp bin;D:\soft\jibx\jibx\lib\jibx-tools.jar org.jibx.binding.generator.BindGen -b binding.xml  netty.protocol.http.jbix.bean.Order
+生成绑定关系
+java -cp bin;D:\soft\jibx\jibx\lib\jibx-bind.jar org.jibx.binding.Compile -v binding.xml

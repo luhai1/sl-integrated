@@ -24,6 +24,8 @@
         <module>sl-excel</module>
         <module>sl-rocketmq</module>
         <module>sl-test</module>
+		<module>sl-redis-lock</module>
+        <module>sl-io</module>
     </modules>
 
 

@@ -1,7 +1,124 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3f404e32-c90f-40c3-8a78-22de740f2ee5" name="Default Changelist" comment="" />
+    <list default="true" id="3f404e32-c90f-40c3-8a78-22de740f2ee5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_protobuf_protobuf_java_3_9_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_googlecode_json_simple_json_simple_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_qdox_qdox_1_12_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_all_5_0_0_Alpha2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_48_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava2_rxjava_2_2_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_1_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_ant_ant_launcher_1_8_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_bcel_bcel_6_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_servicemix_bundles_org_apache_servicemix_bundles_dom4j_1_6_1_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_servicemix_bundles_org_apache_servicemix_bundles_jdom_1_1_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_servicemix_bundles_org_apache_servicemix_bundles_xpp3_1_1_4c_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_16_1_GA.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_2_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_marshalling_jboss_marshalling_serial_2_0_9_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jdom_jdom_1_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_core_contenttype_3_4_100_v20110423_0524.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_core_jobs_3_5_100_v20110404.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_core_resources_3_7_100_v20110510_0712.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_core_runtime_3_7_0_v20110110.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_equinox_common_3_6_0_v20110523.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_equinox_preferences_3_4_0_v20110502.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_jdt_core_3_7_0_v_B61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_osgi_3_7_0_v20110613.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_config_3rdparty_org_eclipse_org_eclipse_text_3_5_100_v20110505_0800.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_jibx_bind_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_jibx_extras_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_jibx_run_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_jibx_schema_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jibx_jibx_tools_1_3_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_msgpack_msgpack_0_6_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_9_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_5_3_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_3_5_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_1_1_3_4_O.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/doc/jibx.text" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/sl-io.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/client/AsyncTimeClientHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/client/TimeClientAio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/server/AcceptCompletionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/server/AsyncTimeServerHandel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/server/ReadCompletionHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/aio/server/TimeServerAio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/bio/client/TimeClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/bio/server/TimeServiceHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/bio/server/TimerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/client/TimeClientHandleNetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/client/TimeClientNetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/marshalling/MarshallingCodeCFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/marshalling/client/JbossClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/marshalling/client/JbossClientHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/marshalling/server/JbossServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/marshalling/server/JbossServerHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/client/ClientMessageHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/client/EchoClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/code/MsgPackDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/code/MsgPackEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/code/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/server/EchoServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/msgpack/server/ServiceMessageHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/SubscribeReqProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/SubscribeRespProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/client/SubRepClientHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/client/SubReqClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/server/SubReqServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/server/SubscriberReqHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/protobuf/test/TestSubscribeReqProto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/server/TimeServerHandleNetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/coder/server/TimeServerNetty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/Header.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/MessageType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/NettyConstant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/NettyMessage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/client/HeartBeatReqHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/client/LoginAuthReqHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/client/NettyClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/ChannelBufferByteInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/ChannelBufferByteOutput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/MarshallingCodecFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/MarshallingDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/MarshallingEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/NettyMessageDecoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/NettyMessageEncoder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder/TestCodeC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/server/HeartBeatRespHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/server/LoginAuthRespHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/server/NettyServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/TestOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/bean/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/bean/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/bean/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/bean/OrderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/jbix/bean/Shipping.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/webSocket/WebSocketServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/webSocket/WebSocketServerHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/webSocket/webSocketServer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/nio/client/TimeClientHandleNio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/nio/client/TimeClientNio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/nio/server/MultiplexerTimeServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-io/src/main/java/nio/server/TimeServerNio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-redis-lock/slredislock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sl-test/src/main/java/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,10 +128,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Enum" />
         <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -31,36 +152,43 @@
     </option>
   </component>
   <component name="ProjectId" id="1lzRaZKVSiX4FFR25NCbGTY0bhZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/sl-rocketmq/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/coder" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protocol" />
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protocol\http\jbix" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="netty.protocol.customize.coder" />
       <recent name="com.sl.umps.config" />
       <recent name="com.sl.umps.dao" />
       <recent name="com.sl.service.impl" />
       <recent name="com.sl.common.vo" />
-      <recent name="com.sl.config" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\mine\sl-integrated\sl-rocketmq\src\main\resources" />
-      <recent name="D:\mine\sl-integrated\sl-excel\src\main\resources" />
-      <recent name="D:\mine\sl-integrated\sl-excel\src\main\java\com\sl\excel" />
-      <recent name="D:\mine\sl-integrated\sl-upms\src\main\resources\mapper" />
-      <recent name="D:\mine\sl-integrated\sl-upms\src\main\java\com\sl\umps\service" />
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protocol\customize\coder" />
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protocol\customize\coder\coder" />
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protocol" />
+      <recent name="D:\mine\sl-integrated\sl-io\target\classes" />
+      <recent name="D:\mine\sl-integrated\sl-io\src\main\java\netty\protobuf" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -75,13 +203,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ExcelApplation">
-    <configuration name="LogEventBroadcaster" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.udp.LogEventBroadcaster" />
-      <module name="sl-test" />
+  <component name="RunManager" selected="Application.NettyClient">
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.protocol.customize.client.NettyClient" />
+      <module name="sl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.udp.*" />
+          <option name="PATTERN" value="netty.protocol.customize.client.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +217,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogEventMonitor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="netty.udp.LogEventMonitor" />
-      <module name="sl-test" />
+    <configuration name="NettyClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.protocol.customize.client2.NettyClient" />
+      <module name="sl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="netty.udp.*" />
+          <option name="PATTERN" value="netty.protocol.customize.client2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,12 +230,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.sl.mq.test.TestMain" />
-      <module name="sl-rocketmq" />
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.protocol.customize.server.NettyServer" />
+      <module name="sl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sl.mq.test.*" />
+          <option name="PATTERN" value="netty.protocol.customize.server.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,46 +243,46 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelApplation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="sl-excel" />
+    <configuration name="NettyServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.protocol.customize.server2.NettyServer" />
+      <module name="sl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sl.excel.*" />
+          <option name="PATTERN" value="netty.protocol.customize.server2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sl.excel.ExcelApplation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MqApplation" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="sl-rocketmq" />
+    <configuration name="TestCodeC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="netty.protocol.customize.coder.TestCodeC" />
+      <module name="sl-io" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.sl.mq.*" />
+          <option name="PATTERN" value="netty.protocol.customize.coder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sl.mq.MqApplation" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <list>
-      <item itemvalue="Application.LogEventMonitor" />
-      <item itemvalue="Application.LogEventBroadcaster" />
-      <item itemvalue="Application.TestMain" />
-      <item itemvalue="Spring Boot.MqApplation" />
-      <item itemvalue="Spring Boot.ExcelApplation" />
-    </list>
+    <configuration name="GateWayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="sl-gateway-nacos" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sl.GateWayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.ExcelApplation" />
-        <item itemvalue="Application.TestMain" />
-        <item itemvalue="Spring Boot.MqApplation" />
-        <item itemvalue="Application.LogEventBroadcaster" />
-        <item itemvalue="Application.LogEventMonitor" />
+        <item itemvalue="Application.NettyClient" />
+        <item itemvalue="Application.NettyServer" />
+        <item itemvalue="Application.NettyServer (1)" />
+        <item itemvalue="Application.NettyClient (1)" />
+        <item itemvalue="Application.TestCodeC" />
       </list>
     </recent_temporary>
   </component>
@@ -203,16 +331,68 @@
       <workItem from="1614645032370" duration="853000" />
       <workItem from="1615343458930" duration="1756000" />
       <workItem from="1615422591869" duration="264000" />
+      <workItem from="1616392719513" duration="7230000" />
+      <workItem from="1616459215593" duration="6839000" />
+      <workItem from="1616545798590" duration="9716000" />
+      <workItem from="1616632274881" duration="20000000" />
+      <workItem from="1616717463321" duration="1006000" />
+      <workItem from="1616977871044" duration="14643000" />
+      <workItem from="1617064117618" duration="37260000" />
+      <workItem from="1617235064063" duration="11681000" />
+      <workItem from="1617322357343" duration="7816000" />
+      <workItem from="1617330604419" duration="10755000" />
     </task>
+    <task id="LOCAL-00001" summary="redis简单分布式锁">
+      <created>1616401912720</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616401912720</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="redis简单分布式锁" />
+    <option name="LAST_COMMIT_MESSAGE" value="redis简单分布式锁" />
+  </component>
   <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sl-io/src/main/java/netty/test/message/EchoClientHandler.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/sl-io/src/main/java/netty/protocol/customize/server/LoginAuthRespHandle.java</url>
+          <line>65</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
     <watches-manager>
       <configuration name="SpringBootApplicationConfigurationType">
         <watch expression="authorities" />
+      </configuration>
+      <configuration name="Application">
+        <watch expression="var18" />
       </configuration>
     </watches-manager>
   </component>

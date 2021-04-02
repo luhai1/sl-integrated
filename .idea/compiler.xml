@@ -7,14 +7,16 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="sl-test" />
+        <module name="sl-io" />
+        <module name="sl-rocketmq" />
         <module name="sl-common" />
+        <module name="slelasticsearch" />
         <module name="sl-excel" />
         <module name="sl-gateway-nacos" />
         <module name="sl-datasource" />
-        <module name="slelasticsearch" />
+        <module name="slredislock" />
         <module name="sl-upms" />
-        <module name="sl-rocketmq" />
+        <module name="sl-test" />
         <module name="slpdf" />
         <module name="sl-auth" />
       </profile>
@@ -26,11 +28,13 @@
       <module name="sl-datasource" target="1.8" />
       <module name="sl-excel" target="1.8" />
       <module name="sl-gateway-nacos" target="1.8" />
+      <module name="sl-io" target="1.8" />
       <module name="sl-rocketmq" target="1.8" />
       <module name="sl-test" target="1.8" />
       <module name="sl-upms" target="1.8" />
       <module name="slelasticsearch" target="1.8" />
       <module name="slpdf" target="1.8" />
+      <module name="slredislock" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -40,11 +44,13 @@
       <module name="sl-datasource" options="-parameters" />
       <module name="sl-excel" options="-parameters" />
       <module name="sl-gateway-nacos" options="-parameters" />
+      <module name="sl-io" options="-parameters" />
       <module name="sl-rocketmq" options="-parameters" />
       <module name="sl-test" options="-parameters" />
       <module name="sl-upms" options="-parameters" />
       <module name="slelasticsearch" options="-parameters" />
       <module name="slpdf" options="-parameters" />
+      <module name="slredislock" options="-parameters" />
     </option>
   </component>
 </project>

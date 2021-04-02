@@ -1,0 +1,5 @@
+package netty.protocol.jbix.bean;
+
+public enum Shipping {
+    STANDARD_MAIL,PRIORITY_AIL,INTERNATIONAL_MAIL,DOMESTIC_EXPRESS,INTERNATIONAL_PRESS
+}

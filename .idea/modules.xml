@@ -8,11 +8,13 @@
       <module fileurl="file://$PROJECT_DIR$/sl-datasource/sl-datasource.iml" filepath="$PROJECT_DIR$/sl-datasource/sl-datasource.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-excel/sl-excel.iml" filepath="$PROJECT_DIR$/sl-excel/sl-excel.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-gateway/sl-gateway-nacos.iml" filepath="$PROJECT_DIR$/sl-gateway/sl-gateway-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-io/sl-io.iml" filepath="$PROJECT_DIR$/sl-io/sl-io.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-rocketmq/sl-rocketmq.iml" filepath="$PROJECT_DIR$/sl-rocketmq/sl-rocketmq.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-test/sl-test.iml" filepath="$PROJECT_DIR$/sl-test/sl-test.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-upms/sl-upms.iml" filepath="$PROJECT_DIR$/sl-upms/sl-upms.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-elasticsearch/slelasticsearch.iml" filepath="$PROJECT_DIR$/sl-elasticsearch/slelasticsearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/sl-pdf/slpdf.iml" filepath="$PROJECT_DIR$/sl-pdf/slpdf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sl-redis-lock/slredislock.iml" filepath="$PROJECT_DIR$/sl-redis-lock/slredislock.iml" />
     </modules>
   </component>
 </project>

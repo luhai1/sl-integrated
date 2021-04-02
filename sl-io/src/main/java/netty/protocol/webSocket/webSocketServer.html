@@ -1,0 +1,42 @@
+<html>
+<head>
+  <meta charset="UTF-8">
+    Netty WebSocket Test
+</head>
+</br>
+<body>
+</br>
+<script type="text/javascript">
+var socket;
+if(window.WebSocket){
+    socket = new WebSocket("ws://127.0.0.1:9099/websocket");
+    socket.onmessage=function (ev) {
+        var ta = document.getElementById("responseText");
+        ta.value= ev.data;
+    }
+
+    socket.onopen = function (ev) {
+        var ta = document.getElementById("responseText");
+        ta.value= "open websocket success!";
+    }
+    socket.onclose=function (ev) {
+        var ta = document.getElementById("responseText");
+        ta.value= "close websocket success!";
+    }
+}else{
+    alert("不支持！");
+}
+
+function send(message) {
+    debugger;
+    socket.send(message);
+}
+</script>
+<input type="button" value="send" onclick="send(' test netty websocket ')">
+<hr color="blue" />
+<h3>
+    server send message:
+</h3>
+<textarea id="responseText" style="width: 500px;height: 300px"></textarea>
+</body>
+</html>
