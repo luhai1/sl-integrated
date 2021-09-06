@@ -1,5 +1,6 @@
 /*.iml
 /.idea
 !/.gitignore
+target/
 
 /src/main/resources/rebel.xml
